@@ -10,6 +10,7 @@ Wortel is a framework that takes client requests as input and synchronously publ
 - [Getting Started](#getting-started)
 - [Using Wortel in an Application](#using-wortel-in-an-application)
     * [Creating Aggregates](#creating-aggregates)
+- [External Links](#external-links)
 
 ## Enviroment
 
@@ -137,3 +138,7 @@ The `@Aggregate` annotation is highly versatile and contains a number of differe
 `aggregateCollectionName` - name of the MongoDB collection the aggregate is saved to, aggregate class name by default;
 
 `eventCollectionName` - name of the MongoDB collection the aggregate events are saved to, event class name by default.
+
+## External Links
+
+[Wortel Javadoc](wortel-doc/index.html)
