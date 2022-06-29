@@ -141,4 +141,4 @@ The `@Aggregate` annotation is highly versatile and contains a number of differe
 
 ## External Links
 
-[Wortel Javadoc](wortel-doc/index.html)
+[Wortel Javadoc](javadoc/index.html)
